@@ -1,0 +1,22 @@
+{
+    "tasks": [
+      {
+        "id":1, 
+        "color":"red",
+        "title":"Away",
+        "quantity":0
+      },
+      {
+        "id":2, 
+        "color":"green",
+        "title":"Keeper",
+        "quantity":0
+      },
+      {
+        "id":3, 
+        "color":"blue",
+        "title":"Home",
+        "quantity":"20"
+      }
+    ]
+  }
